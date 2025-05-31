@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ana sunucu kutusu -->
+  <rect x="8" y="8" width="32" height="32" rx="2" stroke="#6D4DF2" stroke-width="2" fill="none"/>
+  <!-- Üst bölüm -->
+  <rect x="12" y="12" width="24" height="6" rx="1" fill="#6D4DF2"/>
+  <!-- Orta bölüm -->
+  <rect x="12" y="21" width="24" height="6" rx="1" fill="#6D4DF2"/>
+  <!-- Alt bölüm -->
+  <rect x="12" y="30" width="24" height="6" rx="1" fill="#6D4DF2"/>
+  <!-- LED ışıkları -->
+  <circle cx="14" cy="15" r="1.5" fill="white"/>
+  <circle cx="14" cy="24" r="1.5" fill="white"/>
+  <circle cx="14" cy="33" r="1.5" fill="white"/>
+  <!-- Bağlantı çizgileri (örnek bağlantılar) -->
+  <path d="M40 16V32" stroke="#6D4DF2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 24H44" stroke="#6D4DF2" stroke-width="2" stroke-linecap="round"/>
+</svg>
